@@ -21,4 +21,8 @@ KLIK TULISAN WHATSAPP DI BAWAH INI
 
 [WhatsApp](wa.me/62895331437353)
 
+Atau
+
+wa.me/62895331437353
+
 Hak Cipta By Zidan Store
