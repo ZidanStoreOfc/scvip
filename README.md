@@ -2,27 +2,22 @@
 
 ![alt txt](https://github.com/ZidanStoreOfc/scvip/blob/main/ZIDAN%20STORE.jpg?raw=true)
 
-SCRIPT TOP UP BUSSID BY ZIDAN STORE
+# Perintah Untuk Mennginstall
+SC DI BAWAH INI ( KETIK 1 PER 1 DI TERMUX )
 
-HARGA SCRIPT :
-80K/80.000
-
-INCLUDE :
--PENGISIAN 2JT/DETIK
-
--PENGISIAN 1JT/DETIK
-
--PENGISIAN 800RIBU/DETIK
-
--PENGISIAN 500RIBU/DETIK
-
--PENGURASAN -500RIBU/DETIK [ GUNAKAN FITUR INI JIKA TERTIPU/TIDAK DI TRANSFER ]
-
--CHECK NAMA AKUN BUSSID
-
--CHECK ID AKUN BUSSID
-
--CHECK MONEY BUSSID
+• pkg update && pkg upgrade
+• pkg install git
+• pkg install python
+• pkg install python-pip
+• pip install requests
+• pip install colorama
+• pip install pyfiglet
+• pip install pystyle
+• pip install rich
+• pip install bs4
+• git clone https://github.com/ZidanStoreOfc/scvip
+• cd scvip
+• python Zidan_enc.py
 
 MINAT MEMBELI SCRIPT INI?
 SILAHKAN KLIK TULISAN "WHATSAPP" DI BAWAH INI
