@@ -1,4 +1,4 @@
-![alt txt](https://github.com/ZidanStoreOfc/scvip/blob/main/SCRIPT%20ZIDAN%20STORE.jpgraw=true)
+![alt txt](https://github.com/ZidanStoreOfc/scvip/blob/main/SCRIPT%20ZIDAN%20STORE.jpg?raw=true)
 
 SCRIPT TOP UP BUSSID BY ZIDAN STORE
 
