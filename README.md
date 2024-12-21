@@ -1,4 +1,4 @@
-# Apa Saja Fitur Nya?
+# Fitur Apa Saja Yang Tersedia?
 
 ![alt txt](https://github.com/ZidanStoreOfc/scvip/blob/main/ZIDAN%20STORE.jpg?raw=true)
 
