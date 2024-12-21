@@ -3,7 +3,6 @@
 ![alt txt](https://github.com/ZidanStoreOfc/scvip/blob/main/ZIDAN%20STORE.jpg?raw=true)
 
 # Perintah Untuk Mennginstall
-SC DI BAWAH INI ( KETIK 1 PER 1 DI TERMUX )
 
 - pkg update && pkg upgrade
 - pkg install git
