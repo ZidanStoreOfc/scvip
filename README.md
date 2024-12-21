@@ -17,6 +17,6 @@ INCLUDE :
 
 MINAT MEMBELI SCRIPT INI?
 SILAHKAN HUBUNGI
-![alt txt](wa.me/62895331437353)
+![alt txt](wa.me/62895331437353?raw=true)
 
 Hak Cipta By Zidan Store
