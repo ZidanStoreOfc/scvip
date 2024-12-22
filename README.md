@@ -18,9 +18,9 @@
 - cd scvip
 - python Zidan_enc.py
 
-## Semoga Membantu
+# Semoga Membantu
 
-# MINAT MEMBELI SCRIPT INI?. SILAHKAN KLIK TULISAN "WHATSAPP" DI BAWAH INI
+## MINAT MEMBELI SCRIPT INI?. SILAHKAN KLIK TULISAN "WHATSAPP" DI BAWAH INI
 
 # [WhatsApp](https://wa.me/62895331437353)
 
