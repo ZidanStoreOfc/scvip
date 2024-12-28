@@ -1,3 +1,5 @@
+<marquee style="color: green; font-weight: bold;">Script Top Up Bussid By Zidan Store</marquee>
+
 # Fitur Apa Saja Yang Tersedia?
 
 ![alt txt](https://github.com/ZidanStoreOfc/scvip/blob/main/ZIDAN%20STORE.jpg?raw=true)
