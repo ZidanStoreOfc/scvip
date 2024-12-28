@@ -1,6 +1,6 @@
-# encrypt by FIRZAH
-# Github : https://github.com/FIRandZAH
-# WhatsApp : +62 831-7059-7744
+# encrypt by Zidan
+# Github : https://github.com/ZidanStoreOfc
+# WhatsApp : +62 895-3314-37353
 # Time : Sat Dec 28 14:25:54 2024
 
 ZidanStore = ''
@@ -9621,8 +9621,8 @@ ZidanStore += "Je\'[:"
 ZidanStore += ":-1])"
 ZidanStore += ")))"
 
-author_script_enc_firzah = True
+author_script_enc_zidan = True
 
-if 'author_script_enc_firzah' not in globals():
-    raise ValueError("Variable 'author_script_enc_firzah' is missing or has been altered!")
+if 'author_script_enc_zidan' not in globals():
+    raise ValueError("Variable 'author_script_enc_zidan' is missing or has been altered!")
 exec(ZidanStore)
