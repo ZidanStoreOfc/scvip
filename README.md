@@ -23,7 +23,6 @@
 ## MINAT MEMBELI SCRIPT INI?. SILAHKAN KLIK TULISAN "WHATSAPP" DI BAWAH INI
 
 # [WhatsApp](https://wa.me/62895354291993)
-Atau Bisa Wa langsung
-wa.me/62895354291993
+Atau Bisa Wa langsung\nhttps://wa.me/62895354291993
 
 © Copright By Zidan Store
