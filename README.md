@@ -22,6 +22,6 @@
 
 ## MINAT MEMBELI SCRIPT INI?. SILAHKAN KLIK TULISAN "WHATSAPP" DI BAWAH INI
 
-# [WhatsApp](https://wa.me/62895331437353)
+# [WhatsApp](https://wa.me/62895354291993)
 
 Hak Cipta By Zidan Store
